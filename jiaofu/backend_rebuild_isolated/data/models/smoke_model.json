@@ -1,0 +1,33 @@
+{
+  "trees": [
+    {
+      "type": "leaf",
+      "value": 80
+    }
+  ],
+  "importance": [
+    1,
+    0
+  ],
+  "params": {
+    "trees": 1,
+    "maxDepth": 1,
+    "minLeaf": 1
+  },
+  "metrics": {
+    "mae": 0,
+    "minMae": 0,
+    "maxMae": 0,
+    "avgDepth": 1,
+    "maxDepth": 1
+  },
+  "treeMetrics": [
+    {
+      "id": 0,
+      "mae": 0,
+      "depth": 1
+    }
+  ],
+  "savedAt": "2026-03-25T06:48:15.767Z",
+  "name": "smoke_model"
+}

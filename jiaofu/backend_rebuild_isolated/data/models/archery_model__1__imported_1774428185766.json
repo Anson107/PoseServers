@@ -1,0 +1,1257 @@
+{
+  "version": 1,
+  "algorithm": "sklearn-rf-regression-imported",
+  "params": {
+    "trees": 100,
+    "maxDepth": 10,
+    "minLeaf": 1
+  },
+  "trees": [
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    },
+    {
+      "type": "leaf",
+      "value": 84,
+      "count": 1,
+      "depth": 0
+    }
+  ],
+  "importance": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "metrics": {
+    "mae": 0,
+    "minMae": 0,
+    "maxMae": 0,
+    "avgDepth": 1,
+    "maxDepth": 1
+  },
+  "treeMetrics": [
+    {
+      "id": 0,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 1,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 2,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 3,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 4,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 5,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 6,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 7,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 8,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 9,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 10,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 11,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 12,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 13,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 14,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 15,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 16,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 17,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 18,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 19,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 20,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 21,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 22,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 23,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 24,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 25,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 26,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 27,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 28,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 29,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 30,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 31,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 32,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 33,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 34,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 35,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 36,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 37,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 38,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 39,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 40,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 41,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 42,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 43,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 44,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 45,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 46,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 47,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 48,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 49,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 50,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 51,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 52,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 53,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 54,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 55,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 56,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 57,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 58,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 59,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 60,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 61,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 62,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 63,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 64,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 65,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 66,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 67,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 68,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 69,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 70,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 71,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 72,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 73,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 74,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 75,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 76,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 77,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 78,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 79,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 80,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 81,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 82,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 83,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 84,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 85,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 86,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 87,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 88,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 89,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 90,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 91,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 92,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 93,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 94,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 95,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 96,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 97,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 98,
+      "mae": 0,
+      "depth": 1
+    },
+    {
+      "id": 99,
+      "mae": 0,
+      "depth": 1
+    }
+  ],
+  "name": "archery_model__1__imported_1774428185766",
+  "savedAt": "2026-03-25T08:43:05.766Z",
+  "source": "pkl-import"
+}

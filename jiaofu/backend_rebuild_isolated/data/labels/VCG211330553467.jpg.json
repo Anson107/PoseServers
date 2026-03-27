@@ -1,0 +1,74 @@
+{
+  "fileName": "VCG211330553467.jpg",
+  "score": 88,
+  "keypoints": [
+    {
+      "x": 10,
+      "y": 20,
+      "score": 0.9,
+      "name": "nose"
+    },
+    {
+      "x": 20,
+      "y": 25,
+      "score": 0.9,
+      "name": "leftEye"
+    },
+    {
+      "x": 30,
+      "y": 25,
+      "score": 0.9,
+      "name": "rightEye"
+    },
+    {
+      "x": 15,
+      "y": 30,
+      "score": 0.9,
+      "name": "leftShoulder"
+    },
+    {
+      "x": 35,
+      "y": 30,
+      "score": 0.9,
+      "name": "rightShoulder"
+    },
+    {
+      "x": 12,
+      "y": 40,
+      "score": 0.9,
+      "name": "leftElbow"
+    },
+    {
+      "x": 38,
+      "y": 40,
+      "score": 0.9,
+      "name": "rightElbow"
+    },
+    {
+      "x": 10,
+      "y": 55,
+      "score": 0.9,
+      "name": "leftWrist"
+    },
+    {
+      "x": 40,
+      "y": 55,
+      "score": 0.9,
+      "name": "rightWrist"
+    },
+    {
+      "x": 16,
+      "y": 52,
+      "score": 0.9,
+      "name": "leftHip"
+    },
+    {
+      "x": 34,
+      "y": 52,
+      "score": 0.9,
+      "name": "rightHip"
+    }
+  ],
+  "meta": {},
+  "updatedAt": "2026-03-25T06:48:15.751Z"
+}
