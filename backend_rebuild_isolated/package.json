@@ -1,0 +1,33 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.cjs",
+  "bin": "server.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.cjs",
+    "start": "node server.cjs",
+    "copy:dist": "node copy-dist.cjs",
+    "build:exe": "npm run copy:dist && pkg . --targets node18-win-x64 --output ..\\PoseRebuild.exe"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "multer": "^2.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14",
+    "pkg": "^5.8.1"
+  },
+  "pkg": {
+    "assets": [
+      "dist/**/*",
+      "scripts/**/*"
+    ]
+  }
+}
